@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@100..900&display=swap');
+
+#hero {
+    padding: 0px;
+}
+
+/* banner */
+.mainBanner .swiper-slide {
+    position: relative;
+    height: 91.6vh;
+    background: no-repeat left center/100% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+.hero-text {
+    margin-bottom: 50px;
+}
+
+.hero-text h2 {
+    font-family: "Playball", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hero-text h4 {
+    margin-bottom: 20px;
+    font-family: "Hahmlet", serif;
+    font-optical-sizing: auto;
+}
+
+.hero-text p {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.mainBanner .swiper-slide::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    z-index: 1;
+}
+
+.mainBanner .swiper-slide>* {
+    position: relative;
+    z-index: 2;
+}
+
+.mainBanner .swiper-slide.slide1 {
+    background-image: url(../../public/images/main-bg01.jpg);
+}
+
+.mainBanner .swiper-slide.slide2 {
+    background-image: url(../../public/images/main-bg02.jpg);
+}
+
+.mainBanner .swiper-slide.slide3 {
+    background-image: url(../../public/images/main-bg03.jpg);
+}
+
+.mainBanner .swiper-pagination-bullet {
+    background: #8D6E63;
+    width: 14px;
+    height: 14px;
+    opacity: 0.5;
+}
+
+.mainBanner .swiper-pagination-bullet-active {
+    background: #C62828;
+    opacity: 1;
+}
+
+.mainBanner .swiper-slide a {
+    background: #3E2723;
+    color: #D7CCC8;
+    padding: 12px 28px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4),
+}
+
+.mainBanner .swiper-slide a:hover {
+    background: #4E342E;
+    transform: translateY(-2px);
+    box-shadow:
+        0 6px 15px rgba(0, 0, 0, 0.6),
+        0 0 10px rgba(198, 40, 40, 0.3);
+}

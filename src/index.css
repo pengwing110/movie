@@ -1,0 +1,37 @@
+@import "pretendard/dist/web/static/pretendard.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Pretendard", sans-serif;
+  font-weight: 400;
+  color: rgba(0, 0, 0, .75);
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: "Pretendard", sans-serif;
+  padding: 8px 16px;
+  border-radius: 8px;
+  background: #3E2723;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover,
+button:focus {
+  background: #3E2723
+}

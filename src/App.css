@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+/* 공통 */
+.inner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 100px 0;
+}
+
+/* header 영역 */
+header {
+    box-shadow: 0 5px 25px rgba(0, 0, 0, .1);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background: #4e342e5e;
+}
+
+header .inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 600px;
+}
+
+header .inner .logo span {
+    font-family: "Playball", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #4E342E;
+}
+
+/* gnb */
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+}
+
+nav button {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, .6);
+    background: none;
+    border-radius: 0;
+}
+
+nav button:focus,
+nav button:hover {
+    background: none;
+    outline: none;
+}
+
+nav button.active {
+    color: #4E342E;
+    border-bottom: 2px solid #4E342E;
+    
+}

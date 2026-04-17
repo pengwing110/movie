@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "title": "인터스텔라",
+    "genre": "SF",
+    "director": "크리스토퍼 놀란",
+    "year": 2014,
+    "rating": 9.1,
+    "runtime": 169,
+    "image": "images/movie01.png",
+    "desc": "우주를 배경으로 인류의 생존을 위한 탐사를 그린 SF 영화"
+  },
+  {
+    "id": 2,
+    "title": "기생충",
+    "genre": "드라마",
+    "director": "봉준호",
+    "year": 2019,
+    "rating": 8.6,
+    "runtime": 132,
+    "image": "images/movie02.png",
+    "desc": "빈부격차를 독특하게 풀어낸 블랙코미디 영화"
+  },
+  {
+    "id": 3,
+    "title": "어벤져스: 엔드게임",
+    "genre": "액션",
+    "director": "루소 형제",
+    "year": 2019,
+    "rating": 8.4,
+    "runtime": 181,
+    "image": "images/movie03.png",
+    "desc": "어벤져스의 마지막 전투를 그린 마블 영화"
+  },
+  {
+    "id": 4,
+    "title": "라라랜드",
+    "genre": "로맨스",
+    "director": "데이미언 셔젤",
+    "year": 2016,
+    "rating": 8.0,
+    "runtime": 128,
+    "image": "images/movie04.png",
+    "desc": "꿈을 좇는 두 남녀의 사랑과 현실을 그린 뮤지컬 영화"
+  },
+  {
+    "id": 5,
+    "title": "조커",
+    "genre": "범죄",
+    "director": "토드 필립스",
+    "year": 2019,
+    "rating": 8.5,
+    "runtime": 122,
+    "image": "images/movie05.png",
+    "desc": "고담시의 광기 어린 인물 조커의 탄생 이야기"
+  },
+  {
+    "id": 6,
+    "title": "탑건: 매버릭",
+    "genre": "액션",
+    "director": "조셉 코신스키",
+    "year": 2022,
+    "rating": 8.3,
+    "runtime": 130,
+    "image": "images/movie06.png",
+    "desc": "전설적인 파일럿 매버릭의 귀환과 새로운 도전"
+  },
+  {
+    "id": 7,
+    "title": "마션",
+    "genre": "SF",
+    "director": "리들리 스콧",
+    "year": 2015,
+    "rating": 8.0,
+    "runtime": 144,
+    "image": "images/movie07.png",
+    "desc": "화성에 홀로 남겨진 우주인의 생존 이야기"
+  },
+  {
+    "id": 8,
+    "title": "프로젝트 헤일메리",
+    "genre": "SF",
+    "director": "필 로드 & 크리스토퍼 밀러",
+    "year": 2026,
+    "rating": 9.2,
+    "runtime": 156,
+    "image": "images/movie08.png",
+    "desc": "인류를 구하기 위해 우주로 떠난 한 과학자의 생존과 미션을 그린 SF 영화"
+  },
+  {
+    "id": 9,
+    "title": "포레스트 검프",
+    "genre": "드라마",
+    "director": "로버트 저메키스",
+    "year": 1994,
+    "rating": 9.0,
+    "runtime": 142,
+    "image": "images/movie09.png",
+    "desc": "평범한 남자의 특별한 인생 이야기"
+  },
+  {
+    "id": 10,
+    "title": "쇼생크 탈출",
+    "genre": "드라마",
+    "director": "프랭크 다라본트",
+    "year": 1994,
+    "rating": 9.3,
+    "runtime": 142,
+    "image": "images/movie10.png",
+    "desc": "희망과 자유를 향한 감동적인 이야기"
+  },
+  {
+    "id": 11,
+    "title": "존 윅",
+    "genre": "액션",
+    "director": "채드 스타헬스키",
+    "year": 2014,
+    "rating": 7.4,
+    "runtime": 101,
+    "image": "images/movie11.png",
+    "desc": "전설적인 킬러의 복수극"
+  },
+  {
+    "id": 12,
+    "title": "매드맥스: 분노의 도로",
+    "genre": "액션",
+    "director": "조지 밀러",
+    "year": 2015,
+    "rating": 8.1,
+    "runtime": 120,
+    "image": "images/movie12.png",
+    "desc": "포스트 아포칼립스 세계의 추격전"
+  },
+  {
+    "id": 13,
+    "title": "노트북",
+    "genre": "로맨스",
+    "director": "닉 카사베츠",
+    "year": 2004,
+    "rating": 7.8,
+    "runtime": 123,
+    "image": "images/movie13.png",
+    "desc": "시간을 초월한 사랑 이야기"
+  },
+  {
+    "id": 14,
+    "title": "어바웃 타임",
+    "genre": "로맨스",
+    "director": "리처드 커티스",
+    "year": 2013,
+    "rating": 8.3,
+    "runtime": 123,
+    "image": "images/movie14.png",
+    "desc": "시간여행을 통해 사랑을 깨닫는 이야기"
+  },
+  {
+    "id": 15,
+    "title": "다크 나이트",
+    "genre": "범죄",
+    "director": "크리스토퍼 놀란",
+    "year": 2008,
+    "rating": 9.0,
+    "runtime": 152,
+    "image": "images/movie15.png",
+    "desc": "배트맨과 조커의 대결을 그린 명작"
+  },
+  {
+    "id": 16,
+    "title": "타짜",
+    "genre": "범죄",
+    "director": "최동훈",
+    "year": 2006,
+    "rating": 7.9,
+    "runtime": 139,
+    "image": "images/movie16.png",
+    "desc": "도박판에서 벌어지는 인간 군상의 이야기"
+  },
+  {
+    "id": 17,
+    "title": "글래디에이터",
+    "genre": "액션",
+    "director": "리들리 스콧",
+    "year": 2000,
+    "rating": 8.5,
+    "runtime": 155,
+    "image": "images/movie17.png",
+    "desc": "로마 검투사의 복수와 명예를 그린 이야기"
+  },
+  {
+    "id": 18,
+    "title": "그린 마일",
+    "genre": "드라마",
+    "year": 1999,
+    "rating": 8.9,
+    "runtime": 189,
+    "image": "images/movie18.png",
+    "desc": "사형수와 교도관 사이에서 벌어지는 기적 같은 이야기를 그린 감동 드라마"
+  }
+]
